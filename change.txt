@@ -1,0 +1,12 @@
+remove paper texture
+name the <title/>
+suppresions keyword footer et header
+ajout description 
+changement alt image
+remove meta keyword plus utilisé
+
+
+faire rapport annalise 
+et rapport optimisation
+
+mise a jour libraries et code js 
